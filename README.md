@@ -16,3 +16,8 @@
 
 
  **OUTPUT**   
+ This is the file data before modification: 
+ CODTECH IT SOLUTIONS PVT.LTD IT SERVICES & IT CONSULTING.
+ 
+ File data after modification:
+ WELCOME TO CODTECH IT INTERNSHIP PROGRAM.
